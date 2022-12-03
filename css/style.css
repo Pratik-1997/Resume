@@ -87,6 +87,7 @@ div.layer:hover {
 
 
 /* Project Section  *//* Project Section  */
+.projects { background-color: rgba(219, 216, 216, 0.562);}
 .projects .project-img{  min-height: 331px; }
 .projects .project-img{transition: transform 0.5s;}
 .projects .project-img:hover{ transform: translateY(-2px); }
